@@ -1,1 +1,1 @@
-Hello FOO  GitHub!
+Hello FOO Merge Conflict GitHub!
